@@ -1,0 +1,11 @@
+/.venv
+/7-segment-display.v1i.yolov8
+/7segment.ttf
+/dataset_generator.ipynb
+/output_input.jpg
+/output_result.jpg
+/output_warped.jpg
+/piplog.txt
+/recognize_digits.py
+/warped_blue_digits.jpg
+/warped_blue_digits2.jpg
